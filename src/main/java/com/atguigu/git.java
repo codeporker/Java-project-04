@@ -12,5 +12,6 @@ public class git {
         System.out.println("hot-fix");
         System.out.println("this is hot-fix");
         System.out.println("hot-fix commmit");
+        System.out.println("hot-fix test");
     }
 }
